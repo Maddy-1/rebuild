@@ -1,9 +1,11 @@
+body{background-color:#F1F1F1;}
+
 .header{
-    background-color:#F1F1F1;
+    background-color:#E9E9E9;
     overflow: hidden;
-    font-family:Calibri;
+    font-family:'Trebuchet MS';
     border:2px solid;
-    border-color:#000 
+    border-color:#000; 
 }
 
 
@@ -21,3 +23,4 @@
 .main{
     background-color:#F1F1F1;
 }
+.main-section{}
