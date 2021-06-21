@@ -1,0 +1,10 @@
+My plan for this summer is to rebuild my A level project to a higher standard
+
+Plan 
+1.0 homepage layout
+2.0 mapbox function
+3.0 SQL/XAMPP via VSC
+3.0 login system
+4.0 upload system
+5.0 viewing system
+6.0 image gallery
