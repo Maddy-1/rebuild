@@ -1,26 +1,36 @@
-body{background-color:#F1F1F1;}
-
-.header{
-    background-color:#E9E9E9;
-    overflow: hidden;
-    font-family:'Trebuchet MS';
-    border:2px solid;
-    border-color:#000; 
-}
-
-
-.header a{
-    background-color:#F1F1F1;
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+  }
+  
+  /* Style the header */
+  .header {
+    background-color: #f1f1f1;
+    padding: 20px;
     text-align: center;
-    padding: 15px 16px;
+  }
+  
+  /* Style the top navigation bar */
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  /* Style the topnav links */
+  .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
     text-decoration: none;
-    font-size: 50px;
-    display:block;
-    border-color:#000;
-}
-
-
-.main{
-    background-color:#F1F1F1;
-}
-.main-section{}
+  }
+  
+  /* Change color on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
