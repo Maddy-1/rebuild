@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>CSS Website Layout</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="style.css">
@@ -15,8 +14,20 @@
 
 <div class="topnav">
   <a href="#" style="float:left; border-right:3px solid;">Welcome User</a>
-  <a href="#" style= "float: right; border-left: 3px solid;">Log out</a>
+  <a href="#" style= "float:right; border-left:3px solid;">Log out</a>
+</div>
 
+<div class = "content">
+  <div class = "row">
+    <div class ="column left">
+      <div class = "header" style = "padding:0px;"><h4>Past Adventures</h4></div>
+      <p>A map box will go here</p>
+    </div>
+    <div class = "column right">
+      <div class = "header" style = "padding:0px;"><h4>Write Ups</h4></div>
+      <p>Write ups will go here<p>
+    </div>
+  </div>
 </div>
 
 </body>
