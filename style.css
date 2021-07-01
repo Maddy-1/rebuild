@@ -6,7 +6,9 @@ body {
   margin: 0;
   background-color:#e9e9e9;
 }
-  
+h5{
+  font-family: "Trebuchet MS";
+}
 /* Style the header */
 .header {
   padding: 20px;
@@ -17,7 +19,18 @@ body {
   font-size: 30px;
   margin: 5px;
 }
+
+.subheader{
+  padding: 5px;
+  text-align: center;
+  background-color:#B0E0E6;
+  border:3px solid black;
+  border-radius: 5px;
+  font-family: "Trebuchet MS";
+  font-size: 20px;
+  margin: 5px;
   
+}
 /* Style the top navigation bar */
 .topnav {
   overflow: hidden;
@@ -99,7 +112,10 @@ body {
 .inputbox{
   background-color: white;
   border: 3px solid black;
-  border-radius:2px;
+  border-radius:4px;
 }
 .signup{}
+.signupbutton{}
+.login{}
 .loginbutton{}
+.matchtick{}
