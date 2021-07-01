@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<div class="header">
+<div class="header" style="margin-bottom:0px;">
   <h1>The Adventures of You</h1>
 </div>
 
@@ -19,13 +19,21 @@
 
 <div class = "content">
   <div class = "row">
-    <div class ="column left">
-      <div class = "header" style = "padding:0px;"><h4>Past Adventures</h4></div>
-      <p>A map box will go here</p>
+    <div class = "column left">
+      <div class = "box">
+        <div class = "header" style = "padding:0px; margin:0px;"><h4>Past Adventures</h4></div>
+        <p>A map box will go here</p> 
+      </div>
+    <div class = "postbutton">
+      <p>record a new memory</p>
     </div>
+    </div>
+    
     <div class = "column right">
-      <div class = "header" style = "padding:0px;"><h4>Write Ups</h4></div>
-      <p>Write ups will go here<p>
+      <div class="box">
+        <div class = "header" style = "padding:0px; margin:0px;"><h4>Write Ups</h4></div>
+        <p>Write ups will go here<p>
+      </div>
     </div>
   </div>
 </div>
