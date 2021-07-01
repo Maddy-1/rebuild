@@ -96,3 +96,10 @@ body {
   padding: 5px;
   margin: 5px;
 }
+.inputbox{
+  background-color: white;
+  border: 3px solid black;
+  border-radius:2px;
+}
+.signup{}
+.loginbutton{}
