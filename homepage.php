@@ -22,17 +22,21 @@
     <div class = "column left">
       <div class = "box">
         <div class = "header" style = "padding:0px; margin:0px;"><h4>Past Adventures</h4></div>
-        <p>A map box will go here</p> 
+        <div class ="box"style="margin:0px; margin-top:5px;">
+          <div class="box"><p>Map</p></div>
+        </div>
       </div>
     <div class = "postbutton">
-      <p>record a new memory</p>
+      <p>Record a new memory</p>
     </div>
     </div>
     
     <div class = "column right">
       <div class="box">
         <div class = "header" style = "padding:0px; margin:0px;"><h4>Write Ups</h4></div>
-        <p>Write ups will go here<p>
+        <div class = "box" style="margin:0px; margin-top:5px;">
+          <p>Write ups will go here<p>
+        </div>
       </div>
     </div>
   </div>
