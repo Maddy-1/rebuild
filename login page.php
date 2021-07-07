@@ -18,8 +18,8 @@
     <h5>Password</h5>
     <div class = "inputbox"></div>
     <br>
-    <div class ="signup"></div>
-    <div class = "loginbutton"></div>
+    <button class ="signup">sign up</button>
+    <button class = "loginbutton">log in</button>
   </div>
   
 </body>

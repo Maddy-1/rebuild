@@ -21,9 +21,9 @@
     <h5>Confirm Password</h5>
     <div class = "inputbox"></div>
     <br>
-    <div class= "matchtick"></div>
-    <div class = "login"></div>
-    <div class = "signupbutton"></div>
+    <div class = "matchtick"></div>
+    <button class = "login">login</buttonv>
+    <button class = "signupbutton">sign up</button>
   </div>
   
 </body>
