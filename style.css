@@ -121,6 +121,7 @@ h5{
 .signup{
   margin: 5px;
   padding:12px;
+  width:48%;
   border: 3px solid black;
   background-color:#B0E0E6;
   text-align: center;
@@ -132,6 +133,7 @@ h5{
 .signupbutton{
   margin: 5px;
   padding:12px;
+  width:48%;
   border: 3px solid black;
   background-color:#8c7fd8;
   text-align: center;
@@ -144,6 +146,7 @@ h5{
 .login{
   margin: 5px;
   padding:12px;
+  width:48%;
   border: 3px solid black;
   background-color:#B0E0E6;
   text-align: center;
@@ -156,6 +159,7 @@ h5{
 .loginbutton{
   margin: 5px;
   padding:12px;
+  width:48%;
   border: 3px solid black;
   background-color:#8c7fd8;
   text-align: center;
