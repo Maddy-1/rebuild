@@ -13,10 +13,10 @@
       <h1>Login</h1>
     </div>
     <h5>Username</h5>
-    <div class = "inputbox"></div>
+    <div class = "inputbox">I</div>
     <br>
     <h5>Password</h5>
-    <div class = "inputbox"></div>
+    <div class = "inputbox">I</div>
     <br>
     <button class ="signup">sign up</button>
     <button class = "loginbutton">log in</button>

@@ -13,16 +13,16 @@
       <h1>Sign up</h1>
     </div>
     <h5>Username</h5>
-    <div class = "inputbox"></div>
+    <div class = "inputbox">I</div>
     <br>
     <h5>Password</h5>
-    <div class = "inputbox"></div>
+    <div class = "inputbox">I</div>
     <br>
     <h5>Confirm Password</h5>
-    <div class = "inputbox"></div>
+    <div class = "inputbox">I</div>
     <br>
     <div class = "matchtick"></div>
-    <button class = "login">login</buttonv>
+    <button class = "login">login</button>
     <button class = "signupbutton">sign up</button>
   </div>
   
