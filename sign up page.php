@@ -12,18 +12,23 @@
     <div class ="subheader">
       <h1>Sign up</h1>
     </div>
+    <form method="post" action="sign up page.php"> 
     <h5>Username</h5>
-    <div class = "inputbox">I</div>
+    <input type="text" name="username">
+    <br>
+    <h5>Email</h5>
+    <input type="email" name="email">
     <br>
     <h5>Password</h5>
-    <div class = "inputbox">I</div>
+    <input type="password" name="password_1">
     <br>
     <h5>Confirm Password</h5>
-    <div class = "inputbox">I</div>
+    <input type="password" name="password_2">
     <br>
     <div class = "matchtick"></div>
     <button class = "login">login</button>
-    <button class = "signupbutton">sign up</button>
+    <button type="submit" class = "signupbutton" name ="reg_user">sign up</button>
+    </form>
   </div>
   
 </body>
