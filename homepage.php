@@ -14,7 +14,7 @@
 
 <div class="topnav">
   <a href="#" style="float:left; border-right:3px solid;">Welcome User</a>
-  <a href="#" style= "float:right; border-left:3px solid;">Log out</a>
+  <a href="index.php?logout='1'" style= "float:right; border-left:3px solid;">Log out</a>
 </div>
 
 <div class = "content">
@@ -26,7 +26,9 @@
           <div class="box"style="background-color:#766;"><p>Map</p></div>
         </div>
       </div>
-    <button class = "postbutton">Record a new memory</button>
+      
+        <a href="post.php" class="new">Record a new memory</a>
+      
     </div>
     
     <div class = "column right">

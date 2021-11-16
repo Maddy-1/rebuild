@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+  font-family: 'Trebuchet MS';
 }
   
 body {
@@ -7,6 +8,7 @@ body {
   background-color:gray;
 }
 p{font-family: "Trebuchet MS";}
+
 h5{
   font-family: "Trebuchet MS";
 }
@@ -87,6 +89,20 @@ h5{
   clear: both;
 }
 
+a.new {
+  margin: 5px;
+  padding:12px;
+  width:98%;
+  border: 3px solid black;
+  background-color:#B0E0E6;
+  text-align: center;
+  font-family: "Trebuchet MS";
+  font-size:18px;
+} 
+
+a.new:hover {
+  background-color:#9ecacf;
+}
 
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
@@ -100,25 +116,13 @@ h5{
   padding: 5px;
   margin: 5px;
 }
+
 .inputbox{
   background-color: white;
   border: 3px solid black;
   border-radius:4px;
 }
-.postbutton {
-  margin: 5px;
-  padding:12px;
-  width:98%;
-  border: 3px solid black;
-  background-color:#B0E0E6;
-  text-align: center;
-  font-family: "Trebuchet MS";
-  font-size:18px;
-}
 
-.postbutton:hover{
-  background-color:#9ecacf;
-}
 .signup{
   margin: 5px;
   padding:12px;
