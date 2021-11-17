@@ -88,22 +88,33 @@ h5{
   display: table;
   clear: both;
 }
-
-a.new {
-  margin: 5px;
-  padding:12px;
-  width:98%;
+a.new{
+  color:black;
+}
+a.new:link {
+  text-decoration: none;
+}
+.postbox{
   border: 3px solid black;
+  padding: 6px;
+  margin: 5px;
   background-color:#B0E0E6;
   text-align: center;
   font-family: "Trebuchet MS";
   font-size:18px;
-} 
-
-a.new:hover {
-  background-color:#9ecacf;
 }
 
+.postbox:hover{
+  background-color: #9ecacf;
+}
+/*maps!!*/
+#map {
+  position: relative;
+  top: 0;
+  bottom: 0;
+  width:100%;
+  height:100%;
+}
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
   .column.left, .column.right {
